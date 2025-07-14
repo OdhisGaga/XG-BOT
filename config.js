@@ -45,7 +45,7 @@ OWNER_NUMBER: process.env.OWNER_NUMBER || "255713XXXX",
 // add your bot owner number
 OWNER_NAME: process.env.OWNER_NAME || "DAVINCS-TCEH",
 // add bot owner name
-DESCRIPTION: process.env.DESCRIPTION || "*© POWERED BY DAVINCS-TECH*",
+DESCRIPTION: process.env.DESCRIPTION || "*© CREDITS TO GAGA*",
 // add bot owner name    
 ALIVE_IMG: process.env.ALIVE_IMG || "https://files.catbox.moe/xbrltv.jpg",
 // add img for alive msg
