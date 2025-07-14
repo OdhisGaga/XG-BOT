@@ -31,9 +31,9 @@ MENU_IMAGE_URL: process.env.MENU_IMAGE_URL || "https://files.catbox.moe/xbrltv.j
 // add custom menu and mention reply image url
 PREFIX: process.env.PREFIX || ".",
 // add your prifix for bot   
-BOT_NAME: process.env.BOT_NAME || "DAVINCS-XMD",
+BOT_NAME: process.env.BOT_NAME || "XG-BOT",
 // add bot namw here for menu
-STICKER_NAME: process.env.STICKER_NAME || "DAVINCS-XMD",
+STICKER_NAME: process.env.STICKER_NAME || "XG-BOT",
 // type sticker pack name 
 CUSTOM_REACT: process.env.CUSTOM_REACT || "false",
 // make this true for custum emoji react    
