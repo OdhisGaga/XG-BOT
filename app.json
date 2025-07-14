@@ -1,8 +1,8 @@
 {
-  "name": "DAVINCS-XMD",
+  "name": "XG-BOT",
   "description": "An Advanced Whatsapp bot 🚀 built for fast automation, media tool, and smooth group management developed by Allan Davincs",
   "logo": "https://files.catbox.moe/xbrltv.jpg",
-  "keywords": ["DAVINCS-XMD"],
+  "keywords": ["XG-BOT"],
   "success_url": "/",
 
     "stack": "container",
@@ -16,7 +16,7 @@
     "STICKER_NAME": {
       "description": "type your sticker pack name.",
       "required": false,
-      "value": "DAVINCS-XMD"
+      "value": "XG-BOT"
     }, 
       
     "PREFIX": {
@@ -60,7 +60,7 @@
     "AUTO_STATUS_SEEN": {
       "description": "Make it true for automatic status seen.",
       "required": true,
-      "value": "true"
+      "value": "false"
     }, 
 
     "AUTO_STATUS_REACT": {
@@ -85,20 +85,20 @@
     "OWNER_NAME": {
       "description": "Type Bot Owner Name.",
       "required": false,
-      "value": "DAVINCS-TCEH"
+      "value": "Gaga"
 }, 
 
     "OWNER_NUMBER": {
       "description": "put the owner number for bot.",
       "required": false,
-      "value": "255759637644"
+      "value": "254729269118"
 
     }, 
 
     "BOT_NAME": {
       "description": "Type here the bot name.",
       "required": false,
-      "value": "DAVINCS-XMD"
+      "value": "XG-BOT"
 
       }, 
 
@@ -119,7 +119,7 @@
     "ANTI_BAD": {
       "description": "Make it true if you want bot auto delete bad words.",
       "required": false,
-      "value": "false"
+      "value": "true"
     },
 
    "MENTION_REPLY": {
@@ -131,13 +131,13 @@
     "MENU_IMAGE_URL": {
       "description": "add url for mention reply and menu if want.",
       "required": false,
-      "value": "https://files.catbox.moe/xbrltv.jpg"
+      "value": ""
     },
     
      "DESCRIPTION": {
       "description": "add caption for menu and other",
       "required": false,
-      "value": "*© POWERED BY DAVINCS-TECH*"
+      "value": "> CREDITS TO GAGA MIDUSH"
     },
 
       "DELETE_LINKS": {
