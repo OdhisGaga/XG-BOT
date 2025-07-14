@@ -1,12 +1,12 @@
 {
-  "name": "DAVINCS-XMD",
+  "name": "XG-BOT",
   "version": "4.5.0",
-  "description": "A WhatsApp AI made with love by Davincs",
+  "description": "Multidevice whatsapp bot",
   "main": "index.js",
   "scripts": {
-    "start": "pm2 start index.js --deep-monitoring --attach --name DAVINCS-XMD",
-    "stop": "pm2 stop DAVINCS-XMD",
-    "restart": "pm2 restart DAVINCS-XMD"
+    "start": "pm2 start index.js --deep-monitoring --attach --name XG-BOT",
+    "stop": "pm2 stop XG-BOT-MD",
+    "restart": "pm2 restart XG-BOT"
   },
   "dependencies": {
     "@freditezch/baileys": "npm:baileys@6.7.18",
